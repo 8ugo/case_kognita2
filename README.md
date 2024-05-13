@@ -19,3 +19,21 @@ Esse projeto faz parte de um case resolvido para a Kognita Lab. Os dados disponi
 # Insights registrados durante o desenvolvimento
 ## Insight 1
 ![](/img_kognita/img1.jpeg)
+
+## Insight 2
+![](/img_kognita/img2.jpeg)
+
+## Insight 3
+![](/img_kognita/img3.jpeg)
+
+## Insight 4
+![](/img_kognita/img4.jpeg)
+
+## Insight 5
+![](/img_kognita/img5.jpeg)
+
+## Insight 6
+![](/img_kognita/img6.jpeg)
+
+## Insight 7
+![](/img_kognita/img7.jpeg)
