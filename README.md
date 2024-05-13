@@ -18,4 +18,4 @@ Esse projeto faz parte de um case resolvido para a Kognita Lab. Os dados disponi
 
 # Insights registrados durante o desenvolvimento
 ## Insight 1
-![](/img/mind_map.png)
+![](/img_kognita/img1.jpeg)
