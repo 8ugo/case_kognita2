@@ -7,13 +7,13 @@
 
 - Para as categorias de POIs que foram identificadas como possíveis concorrentes, fazer o mesmo que o item 2. Considere as categorias agrupadas para gerar apenas 1 mapa.
 
-- **Para os dados utilizados para gerar os 7 mapas acima, determinar a correlação espacial (coeficiente I de Moran global) da quantidade de POIs no nível de município.**
+- Para os dados utilizados para gerar os 7 mapas acima, determinar a correlação espacial (coeficiente I de Moran global) da quantidade de POIs no nível de município.
 
 - Plotar os dados de faturamento (considere a mediana do faturamento no período disponibilizado) exibindo informações de lat long e o faturamento no "hover" do mouse sobre o ponto.
 
-- **Baseado no faturamento histórico, determinar programaticamente quais unidades estão com tendência de alta ou de baixa no faturamento. Adicionar essa informação de alta ou baixa no gráfico do item 6.**
+- *Baseado no faturamento histórico, determinar programaticamente quais unidades estão com tendência de alta ou de baixa no faturamento. Adicionar essa informação de alta ou baixa no gráfico do item 6.*
 
-- **Plotar o faturamento médio por município usando alguma escala de cores que julgue razoável.**
+- *Plotar o faturamento médio por município usando alguma escala de cores que julgue razoável.*
 
 - *Idem para o faturamento médio por 100 mil habitantes.*
 
